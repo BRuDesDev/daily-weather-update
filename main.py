@@ -1,4 +1,3 @@
-from user_location import UserLocation
 from twilio.rest import Client
 import requests
 
